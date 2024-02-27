@@ -33,7 +33,9 @@ and enter the complete URL such as https://web.lutfifakee.com/ must use [/] at t
  ```
 git clone https://github.com/X-Projetion/Admin-Finder-Tool
 ```
-
+# Support
+windows ✔️
+linux✔️
 
 
 # Thanks
