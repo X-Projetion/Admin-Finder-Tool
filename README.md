@@ -20,7 +20,7 @@ The function of the macro tag is to retrieve the path from the URL.
 Like https://web.lutfifakee.com/ the macro will take part of the subdomain URL which will later be used to find the path or admin login or admin login page.
 
 
-# how to use it
+# How to use it
 
 - apt install python3
 - pip install requests
@@ -34,8 +34,8 @@ and enter the complete URL such as https://web.lutfifakee.com/ must use [/] at t
 git clone https://github.com/X-Projetion/Admin-Finder-Tool
 ```
 # Support System
-windows ✔️<br>
-linux✔️
+WINDOWS ✔️<br>
+LINUX / TERMINAL✔️
 
 
 # Thanks
