@@ -7,9 +7,12 @@
 
 
 
-# Admin-Finder-Tool
-
-Admin finder is a tool that functions to search for the login page of a website, Ini memiliki arsitektur modular yang sederhana dan dioptimalkan untuk kecepatan. Model pasif menjamin kecepatan dan kerahasiaan yang dapat dimanfaatkan baik oleh penguji penetrasi maupun pemburu bug bounty. in this script it is designed to make it easier to find admin logins or admin logins that use paths or wordlists that you create yourself and this admin finder tool uses macros to make it easier to find your admin logins, this macro uses tags in your wordlist file which will later be used tag name [Lutfifakee_SUB] [Lutfifakee_SUBG] [Lutfifakee_SUBC].
+# Admin Finder Tool
+Admin finder is a tool that functions to search for the login page of a website. It has a simple modular architecture and is optimized for speed. The passive model guarantees speed and confidentiality that penetration testers and bug bounty hunters can take advantage of. This script is designed to make it easier to find admin logins or admin logins that use paths or wordlists that you create yourself and this admin search tool uses macros to make it easier to find your admin logins, these macros use tags in your wordlist file which will later be used.
+The macro name used is 
+- [Lutfifakee SUB]
+- [Lutfifakee_SUBG]
+- [Lutfifakee SUBC]
 
 Admin finder 
 
