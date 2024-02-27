@@ -14,8 +14,6 @@ The macro name used is
 - [Lutfifakee_SUBG]
 - [Lutfifakee SUBC]
 
-Admin finder 
-
 # Macro Function
 The function of the macro tag is to retrieve the path from the URL.
 Like https://sub.localhost.com the macro will take part of the subdomain URL which will later be used to find the path or admin login or admin login page.
