@@ -6,3 +6,12 @@ Admin finder is a tool that functions to search for the login page of a website,
 # Macro Function
 The function of the macro tag is to retrieve the path from the URL.
 Like https://sub.localhost.com the macro will take part of the subdomain URL which will later be used to find the path or admin login or admin login page.
+
+
+# how to use it
+
+- apt install python3
+- pip install requests
+- python3 find.py
+
+and enter the complete URL such as https://web.localhost.com/ must use [/] at the end of the url.
