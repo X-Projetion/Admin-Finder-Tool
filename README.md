@@ -25,7 +25,7 @@ Like https://sub.localhost.com the macro will take part of the subdomain URL whi
 - pip install requests
 - python3 find.py
 
-and enter the complete URL such as https://web.localhost.com/ must use [/] at the end of the url.
+and enter the complete URL such as https://web.1337.1337.1337.com/ must use [/] at the end of the url.
 
 
 # Installation
