@@ -1,0 +1,11 @@
+admin
+adminpanel
+adminadmin
+[Lutfifakee_SUB]-admin
+[Lutfifakee_SUB]-login
+[Lutfifakee_SUB]_login
+[Lutfifakee_SUBG]-login
+[Lutfifakee_SUBG]login
+[Lutfifakee_SUBC]login
+[Lutfifakee_SUBC]_admin
+admin_[Lutfifakee_SUBC]
