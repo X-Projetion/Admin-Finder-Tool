@@ -19,7 +19,7 @@ and enter the complete URL such as https://web.localhost.com/ must use [/] at th
 
 
 # Installation
- ```sh- git clone https://github.com/X-Projetion/Admin-Finder-Tool```
+ ```git clone https://github.com/X-Projetion/Admin-Finder-Tool```
 
 
 
