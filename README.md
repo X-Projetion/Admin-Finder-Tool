@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="Admin finder.png" alt="adminfinder" width="200px">
+  <img src="Admin finder.png" alt="adminfinder" width="500px">
   <br>
 </h1>
 <h4 align="center">Fast passive Finder Admin enumeration tool.</h4>
