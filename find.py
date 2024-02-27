@@ -52,8 +52,7 @@ def admin_finder(url, wordlist):
         admin_url = url + path
         response = requests.get(admin_url, headers=headers)
         print(f" {[response.status_code]} - {response.url}")
-
-        # Menambahkan penanganan respons untuk input type="password" dan method="post"
+        
         if "input type=\"password\"" in response.text and 'method="post"' in response.text:
             found_admins.append(admin_url)
     return found_admins
